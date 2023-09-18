@@ -1,0 +1,19 @@
+{
+  "runtimeOptions": {
+    "tfm": "net7.0",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "7.0.11"
+      },
+      {
+        "name": "Microsoft.AspNetCore.App",
+        "version": "7.0.11"
+      }
+    ],
+    "additionalProbingPaths": [
+      "C:\\Users\\xaero\\.nuget\\packages\\",
+      "C:\\ProgramData\\PostSharp\\NuGetFallback"
+    ]
+  }
+}

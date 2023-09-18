@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Apricode.App.Application/1.0.0": {
+        "dependencies": {
+          "Apricode.App.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Apricode.App.Application.dll": {}
+        }
+      },
+      "Apricode.App.Domain/1.0.0": {
+        "runtime": {
+          "Apricode.App.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Apricode.App.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apricode.App.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

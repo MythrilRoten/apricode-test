@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Apricode.App.Presentation.props" />
+</Project>
